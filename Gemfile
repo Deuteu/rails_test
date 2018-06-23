@@ -41,6 +41,7 @@ gem 'spring', group: :development
 
 group :test do
   gem 'rspec-rails', '~> 3.7'
+  gem 'rspec_junit_formatter'
 end
 
 # Use debugger
